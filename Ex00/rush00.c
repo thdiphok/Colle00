@@ -6,13 +6,13 @@
 /*   By: thdiphok <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/15 11:45:43 by thdiphok          #+#    #+#             */
-/*   Updated: 2020/07/15 12:05:29 by thdiphok         ###   ########.fr       */
+/*   Updated: 2020/07/16 11:42:38 by thdiphok         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
  #include "ft_putchar.c"
 	
- void rush(int q, int v)
+ void rush00(int q, int v)
  {
  	char c;
  	int i =0;
